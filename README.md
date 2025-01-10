@@ -70,9 +70,9 @@ Use SQL Server Management Studio (SSMS) or another SQL-compatible tool to execut
 
 This repository was developed as part of my internship with YoungDev Interns. I am thankful to their team for their mentorship and for creating a challenging yet rewarding learning environment.
 
-Learn more about the organization: @YoungDevInterns
+Learn more about the organization: [@YoungDev Interns](https://github.com/Young-Dev-Interns)
 
-##Contact
+## Contact
 If you have any feedback, suggestions, or inquiries, feel free to reach out:
 
 LinkedIn: Wardah sattar
