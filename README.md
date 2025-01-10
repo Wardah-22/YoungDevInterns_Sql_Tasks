@@ -75,6 +75,6 @@ Learn more about the organization: [@YoungDev Interns](https://github.com/Young-
 ## Contact
 If you have any feedback, suggestions, or inquiries, feel free to reach out:
 
-LinkedIn: Wardah sattar
-GitHub: Wardah-22
+**LinkedIn**: Wardah sattar
+**GitHub**: Wardah-22
 
